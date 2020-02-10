@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+  }
+.nav{
+    height: 80px;
+
+}
+.nav .nav-item p {
+    position: absolute;
+    margin-top: 25px;
+    display: inline-block;
+    right: 50px;
+    font-size: larger;
+    cursor: pointer;
+} 
+#register {
+    height: 10000px;
+    margin-top: 1000px;
+    background-color: black;
+}
